@@ -1,4 +1,4 @@
-﻿# Acomplamiento molecular con Autodock 4.2
+﻿# Acoplamiento molecular con Autodock 4.2
 ![enter image description here](https://jriccil.github.io/Taller_Simulacion_Molecular/images/ad4_wflow.png) 
 
 > Créditos: Dr. Joel Ricci
