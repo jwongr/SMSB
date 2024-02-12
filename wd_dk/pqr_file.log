@@ -1,0 +1,33 @@
+2024-02-11 14:26:30,329 INFO:main.py:243:print_splash_screen:PDB2PQR v3.4.1: biomolecular structure conversion software.
+2024-02-11 14:26:30,329 INFO:main.py:245:print_splash_screen:Please cite:  Jurrus E, et al.  Improvements to the APBS biomolecular solvation software suite.  Protein Sci 27 112-128 (2018).
+2024-02-11 14:26:30,329 INFO:main.py:245:print_splash_screen:Please cite:  Dolinsky TJ, et al.  PDB2PQR: expanding and upgrading automated preparation of biomolecular structures for molecular simulations. Nucleic Acids Res 35 W522-W525 (2007).
+2024-02-11 14:26:30,330 INFO:main.py:750:main_driver:Checking and transforming input arguments.
+2024-02-11 14:26:30,331 INFO:main.py:754:main_driver:Loading topology files.
+2024-02-11 14:26:30,382 INFO:main.py:756:main_driver:Loading molecule: prot_unprep.pdb
+2024-02-11 14:26:30,400 INFO:main.py:759:main_driver:Dropping water from structure.
+2024-02-11 14:26:30,401 INFO:main.py:761:main_driver:Setting up molecule.
+2024-02-11 14:26:30,413 INFO:main.py:411:setup_molecule:Created biomolecule object with 298 residues and 2392 atoms.
+2024-02-11 14:26:30,413 WARNING:main.py:421:setup_molecule:Multiple occupancies found: CA in ARG A 22.
+2024-02-11 14:26:30,413 WARNING:main.py:421:setup_molecule:Multiple occupancies found: CB in ARG A 22.
+2024-02-11 14:26:30,413 WARNING:main.py:421:setup_molecule:Multiple occupancies found: CG in ARG A 22.
+2024-02-11 14:26:30,413 WARNING:main.py:421:setup_molecule:Multiple occupancies found: CD in ARG A 22.
+2024-02-11 14:26:30,413 WARNING:main.py:421:setup_molecule:Multiple occupancies found: NE in ARG A 22.
+2024-02-11 14:26:30,414 WARNING:main.py:421:setup_molecule:Multiple occupancies found: CZ in ARG A 22.
+2024-02-11 14:26:30,414 WARNING:main.py:421:setup_molecule:Multiple occupancies found: NH1 in ARG A 22.
+2024-02-11 14:26:30,414 WARNING:main.py:421:setup_molecule:Multiple occupancies found: NH2 in ARG A 22.
+2024-02-11 14:26:30,414 WARNING:main.py:427:setup_molecule:Multiple occupancies found in ARG A 22. At least one of the instances is being ignored.
+2024-02-11 14:26:30,414 INFO:main.py:765:main_driver:Setting termini states for biomolecule chains.
+2024-02-11 14:26:30,422 INFO:main.py:604:non_trivial:Loading forcefield.
+2024-02-11 14:26:30,431 INFO:main.py:608:non_trivial:Loading hydrogen topology definitions.
+2024-02-11 14:26:30,435 INFO:main.py:618:non_trivial:Attempting to repair 6 missing atoms in biomolecule.
+2024-02-11 14:26:30,438 INFO:main.py:623:non_trivial:Updating disulfide bridges.
+2024-02-11 14:26:30,438 INFO:main.py:626:non_trivial:Debumping biomolecule.
+2024-02-11 14:26:30,503 INFO:main.py:643:non_trivial:Adding hydrogens to biomolecule.
+2024-02-11 14:26:30,792 INFO:main.py:646:non_trivial:Debumping biomolecule (again).
+2024-02-11 14:26:31,135 INFO:main.py:648:non_trivial:Optimizing hydrogen bonds
+2024-02-11 14:26:31,727 INFO:main.py:660:non_trivial:Applying force field to biomolecule states.
+2024-02-11 14:26:31,730 INFO:main.py:698:non_trivial:Applying custom naming scheme (amber).
+2024-02-11 14:26:31,733 INFO:main.py:704:non_trivial:Regenerating headers.
+2024-02-11 14:26:31,734 INFO:main.py:729:non_trivial:Regenerating PDB lines.
+2024-02-11 14:26:31,758 WARNING:main.py:314:print_pqr:Ignoring 464 header lines in output.
+2024-02-11 14:26:31,782 WARNING:main.py:357:print_pdb:Ignoring 464 header lines in output.
