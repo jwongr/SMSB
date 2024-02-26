@@ -1,0 +1,306 @@
+MODEL 1
+REMARK minimizedAffinity -7.29502821
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -12.193 206.315 112.299  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -11.629 206.064 111.236  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1     -11.546 206.590 113.482  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1     -10.177 206.659 113.586  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -9.591 206.380 114.748  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -8.281 206.409 114.462  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -8.005 206.893 113.215  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -9.231 207.040 112.605  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -6.629 207.148 112.739  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -12.001 206.527 114.376  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -7.627 206.095 115.171  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -18.369 206.490 112.062  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -16.486 206.383 112.173  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -15.853 206.547 113.404  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -14.455 206.503 113.485  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -13.689 206.304 112.327  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -14.348 206.110 111.100  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -15.740 206.153 111.021  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -7.03282833
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -11.179 206.471 113.000  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -10.672 205.505 113.568  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1     -10.498 207.608 112.633  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1      -9.145 207.763 112.824  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -8.639 208.984 112.980  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -7.350 208.762 113.274  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -6.969 207.460 113.115  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -8.133 206.774 112.846  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -5.567 207.011 113.245  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -10.962 208.475 112.423  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -6.781 209.549 113.567  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -17.296 206.153 112.151  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -15.423 206.294 112.362  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -14.577 205.902 111.326  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -13.188 205.973 111.491  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -12.645 206.428 112.701  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -13.515 206.848 113.722  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -14.899 206.778 113.556  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity -6.9366765
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -14.266 204.234 114.700  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -15.244 203.611 114.293  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1     -13.938 204.396 116.026  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1     -14.658 203.826 117.049  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1     -14.674 204.407 118.246  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1     -15.560 203.682 118.943  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1     -15.958 202.543 118.304  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1     -15.404 202.623 117.046  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1     -16.817 201.522 118.940  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -13.310 205.114 116.346  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1     -15.842 204.017 119.858  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -10.743 206.684 110.247  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -11.810 205.990 111.643  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -11.242 205.736 112.891  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -12.022 205.190 113.919  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -13.372 204.887 113.692  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -13.934 205.179 112.437  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -13.156 205.724 111.414  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity -6.72540569
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -11.999 206.591 113.328  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -12.645 207.277 114.118  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1     -12.541 205.642 112.492  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1     -13.891 205.393 112.421  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1     -14.319 204.184 112.066  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1     -15.648 204.252 112.231  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1     -16.103 205.514 112.484  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1     -14.970 206.281 112.642  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1     -17.541 205.850 112.561  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -11.990 204.920 112.062  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1     -16.187 203.397 112.145  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1      -5.868 207.147 112.753  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1      -7.741 207.030 112.969  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1      -8.280 206.764 114.227  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1      -9.666 206.642 114.384  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -10.515 206.777 113.276  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1      -9.954 207.075 112.022  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1      -8.573 207.197 111.866  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity -6.68876457
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -10.245 207.104 113.628  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -10.023 207.602 114.730  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1      -9.284 206.838 112.681  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1      -7.945 207.064 112.892  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -7.149 207.323 111.857  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -5.971 207.622 112.424  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -5.930 207.367 113.765  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -7.219 207.026 114.107  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -4.694 207.485 114.568  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1      -9.504 206.690 111.711  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -5.231 207.985 111.833  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -16.018 205.898 111.767  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -14.262 206.222 112.384  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -14.060 206.755 113.656  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -12.761 207.029 114.104  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -11.662 206.778 113.271  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -11.884 206.212 112.003  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -13.178 205.938 111.559  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK minimizedAffinity -6.67615271
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -9.910 206.967 112.554  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1     -10.386 207.877 111.880  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1     -10.630 205.915 113.069  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1     -11.975 205.746 112.838  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1     -12.721 205.102 113.732  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1     -13.971 205.239 113.267  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1     -14.031 205.771 112.010  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1     -12.738 206.139 111.712  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1     -15.290 205.882 111.244  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -10.292 205.341 113.823  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1     -14.739 204.938 113.856  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1      -3.800 206.864 113.503  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1      -5.670 206.953 113.246  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1      -6.525 206.916 114.346  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1      -7.912 206.947 114.158  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1      -8.445 207.004 112.862  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1      -7.566 207.072 111.767  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1      -6.184 207.043 111.956  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK minimizedAffinity -6.53836966
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1     -10.153 207.475 113.524  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1      -9.317 207.754 112.667  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1      -9.958 207.606 114.879  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1      -8.803 208.118 115.422  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -8.424 207.740 116.640  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -7.219 208.307 116.793  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -6.903 209.194 115.803  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -7.911 209.071 114.874  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -5.691 210.040 115.839  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1     -10.529 207.134 115.559  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -6.667 208.052 117.605  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -15.662 205.080 112.057  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -13.985 205.854 112.456  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -12.948 205.780 111.527  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -11.693 206.323 111.832  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -11.474 206.933 113.076  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -12.542 207.025 113.987  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -13.792 206.485 113.680  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK minimizedAffinity -6.49288321
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -9.002 207.665 113.014  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1      -9.037 208.893 113.013  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1      -7.881 206.914 113.282  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1      -6.674 207.472 113.629  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -5.545 206.826 113.348  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -4.583 207.695 113.688  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -5.048 208.790 114.361  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -6.421 208.685 114.313  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -4.156 209.807 114.956  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1      -7.800 205.947 113.021  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -3.625 207.474 113.441  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -14.024 204.254 111.836  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -12.526 205.350 112.189  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -12.042 206.204 111.198  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -10.912 206.993 111.444  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1     -10.257 206.919 112.682  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -10.779 206.075 113.678  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -11.907 205.291 113.433  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK minimizedAffinity -5.97541189
+REMARK minimizedRMSD -1
+REMARK  Name = CS1
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_5  and  C_8
+REMARK    2  A    between atoms: C_14  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL A   1      -8.503 207.237 113.901  0.00  0.00    +0.249 C 
+ATOM      2  O   UNL A   1      -7.602 207.392 113.080  0.00  0.00    -0.270 OA
+ATOM      3  N   UNL A   1      -8.426 207.602 115.225  0.00  0.00    -0.265 N 
+ATOM      4  C   UNL A   1      -7.329 208.232 115.764  0.00  0.00    +0.147 A 
+ATOM      5  N   UNL A   1      -7.050 208.078 117.056  0.00  0.00    -0.158 NA
+ATOM      6  N   UNL A   1      -5.871 208.699 117.206  0.00  0.00    -0.280 N 
+ATOM      7  C   UNL A   1      -5.486 209.414 116.108  0.00  0.00    +0.035 A 
+ATOM      8  C   UNL A   1      -6.410 209.105 115.134  0.00  0.00    +0.068 A 
+ATOM      9  C   UNL A   1      -4.295 210.290 116.096  0.00  0.00    +0.065 C 
+ATOM     10  H   UNL A   1      -9.045 207.234 115.927  0.00  0.00    +0.157 HD
+ATOM     11  H   UNL A   1      -5.386 208.602 118.092  0.00  0.00    +0.189 HD
+ENDROOT
+BRANCH   1  16
+ATOM     12 BR   UNL A   1     -13.870 204.924 111.880  0.00  0.00    -0.050 Br
+ATOM     13  C   UNL A   1     -12.205 205.570 112.495  0.00  0.00    +0.018 A 
+ATOM     14  C   UNL A   1     -11.707 205.146 113.727  0.00  0.00    +0.016 A 
+ATOM     15  C   UNL A   1     -10.490 205.648 114.203  0.00  0.00    +0.014 A 
+ATOM     16  C   UNL A   1      -9.772 206.587 113.447  0.00  0.00    +0.037 A 
+ATOM     17  C   UNL A   1     -10.275 206.979 112.194  0.00  0.00    +0.014 A 
+ATOM     18  C   UNL A   1     -11.488 206.476 111.720  0.00  0.00    +0.016 A 
+ENDBRANCH   1  16
+TORSDOF 1
+ENDMDL

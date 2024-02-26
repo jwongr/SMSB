@@ -1,0 +1,5 @@
+for i in *; 
+do
+	name=`head -n 2 $i | tail -n 1`; 
+	mv $i $name.mol2; 
+done
